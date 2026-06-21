@@ -39,57 +39,14 @@ requiere descargas!** Solo abre tu navegador web.
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://codepen.io/pen)
 
-## Recursos Adicionales
-
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
-- **Todas las Actividades Prácticas**:
-
-**Lección 1**  
-Actividad: Explorar Sitios Web  
-Empezar a Programar: [CodePen](https://codepen.io/your-lesson1)
-
-**Lección 2**  
-Actividad: Primera página HTML  
-Empezar a Programar: [CodePen](https://codepen.io/your-lesson2)
-
-**Lección 3**  
-Actividad: Añadir imágenes  
-Empezar a Programar: [JSFiddle](https://jsfiddle.net/your-lesson3)
-
-**Lección 4**  
-Actividad: Estilo de la página  
-Empezar a Programar: [CodePen](https://codepen.io/your-lesson4)
-
-**Lección 5**  
-Actividad: Página de perfil  
-Empezar a Programar: [Replit](https://replit.com/@your-lesson5)
-
-- **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
-- **Compartir**: #WebDevBeginners
-
-**¡Gracias por completar el curso!**
-
-
-
----
-
 ## 👥 Elaboración
-
 Universidad Peruana de Ciencias Aplicadas
-
 Carrera de Ingeniería de Software
-
 Período 202610
-
 1ASI0730 Aplicaciones Web
-
-NRC [12158]
-
+NRC: 12158
 **Nombre del equipo**: Perfomily
-
 **Líder del equipo**: Diego Alonso Diaz Villalba
-
 **Integrantes del equipo**:
 Darío Fabián Ávila De La Cruz, Josue Francisco Carpio Peña, Salym Pool Galvez Meza, Oscar Lizandro Vasquez Llave y Diego Alonso Diaz Villalba
-
 **Fecha de entrega**: 21 de junio de 2026
