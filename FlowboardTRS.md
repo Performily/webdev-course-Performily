@@ -8,18 +8,28 @@ requiere descargas!** Solo abre tu navegador web.
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 **📂 Repositorio de código fuente**: [https://github.com/Performily/FlowboardTRS](https://github.com/Performily/FlowboardTRS)
 ## Secuencia de la lección
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? 
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](https://youtu.be/s6ge-f6E5IA)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
-### Lección 2: Introducción a HTML (10 minutos)
+- **Empieza a programar**: [Open CodePen](https://codepen.io/pen)
+### Lección 2: Introducción a HTML 
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/rAxGGD1Say8)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
-### Lección 3: Añadir más elementos HTML (8 minutos)
+- **Práctica**: [Clic para programar](https://codepen.io/pen) 👈 **¡No necesitas registrarte!**
+### Lección 3: Añadir más elementos HTML
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://youtu.be/rAxGGD1Say8)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen) 👈 **¡Comienza al instante!**
+### Lección 4: Introducción a CSS 
+- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
+- **Enlace**: [Ver la lección](https://youtu.be/YaS3XTMwqOo)
+- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen) 👈 **¡No es necesario registrarse!**
+### Lección 5: Crear una página web sencilla 
+- **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
+- **Enlace**: [Ver la lección](https://youtu.be/HndiCvWUVA4)
+- **Consejos clave**: Aplicar estilos y depurar errores.
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen) 👈 **¡Guarda y comparte!**
