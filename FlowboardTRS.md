@@ -33,3 +33,9 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://youtu.be/HndiCvWUVA4)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen) 👈 **¡Guarda y comparte!**
+### Lección 6: Consejos y Próximos Pasos
+- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+- **Enlace**: [Ver Lección](https://youtu.be/iDelRYWzA5g)
+- **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
+- **Comparte tu Trabajo**: [Envía tu Creación](https://codepen.io/pen)
+
